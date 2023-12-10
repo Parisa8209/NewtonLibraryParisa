@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonLibraryParisa", "NewtonLibraryParisa\NewtonLibraryParisa.csproj", "{ACE65352-A5B2-4E27-AD61-CC3D54C1C0F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE65352-A5B2-4E27-AD61-CC3D54C1C0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE65352-A5B2-4E27-AD61-CC3D54C1C0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE65352-A5B2-4E27-AD61-CC3D54C1C0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE65352-A5B2-4E27-AD61-CC3D54C1C0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {376A3EEB-5D34-4277-BED7-A5F568B23FE1}
+	EndGlobalSection
+EndGlobal
